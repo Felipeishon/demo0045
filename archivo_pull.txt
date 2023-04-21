@@ -1,1 +1,1 @@
-comandogit para bajar los cambios de la nuve al computador
+comando git para bajar los cambios de la nuve al computador
